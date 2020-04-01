@@ -1,0 +1,16 @@
+name: validators_helper
+description: Herramienta para validar formatos de objetos
+version: 0.0.1
+author: thelabs.dev
+homepage: https://github.com/thelabs-dev/validators-helper.dart
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
